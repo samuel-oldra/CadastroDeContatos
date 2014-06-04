@@ -1,3 +1,7 @@
-![alt text](https://bitbucket.org/samuel-oldra/cadastro-de-contatos-alphacontrols-zeosdbo-e-sqlite/raw/62c096114befe93336af2fa001a2564ddc800c4d/README_IMGS/1.png)
-![alt text](https://bitbucket.org/samuel-oldra/cadastro-de-contatos-alphacontrols-zeosdbo-e-sqlite/raw/62c096114befe93336af2fa001a2564ddc800c4d/README_IMGS/2.png)
-![alt text](https://bitbucket.org/samuel-oldra/cadastro-de-contatos-alphacontrols-zeosdbo-e-sqlite/raw/62c096114befe93336af2fa001a2564ddc800c4d/README_IMGS/3.png)
+<center>
+
+![alt text](https://raw.githubusercontent.com/samuel-oldra/CadastroDeContatos/main/README_IMGS/1.png)
+
+![alt text](https://raw.githubusercontent.com/samuel-oldra/CadastroDeContatos/main/README_IMGS/2.png)
+
+![alt text](https://raw.githubusercontent.com/samuel-oldra/CadastroDeContatos/main/README_IMGS/3.png)
